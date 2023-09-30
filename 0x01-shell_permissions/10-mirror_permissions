@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reference**olleh hello
+chmod +x set_file_mode_to_match.sh
